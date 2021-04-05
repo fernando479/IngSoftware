@@ -6,7 +6,7 @@
 
 -Actualmente trabajan los dueños, dos personas con acceso total a los sistemas de inventario y boletas y caja.
 
--No descartan la posibilidad de contratar personal adicional una vez normalizada la situacion del cockbig, pero no para caja.
+-No descartan la posibilidad de contratar personal adicional una vez normalizada la situacion del covid, pero no para caja.
 
 ### ¿Que servicios ofrecen?
 
