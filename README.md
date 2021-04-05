@@ -1,8 +1,8 @@
 # IngSoftware
 
-###Informacion sobre el negocio
+### Informacion sobre el negocio
  
-####Detalles de la organizacion
+#### Detalles de la organizacion
 
 -Actualmente trabajan los dueños, dos personas con acceso total a los sistemas de inventario y boletas y caja.
 
