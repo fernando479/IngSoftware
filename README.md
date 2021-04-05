@@ -1,7 +1,8 @@
 # IngSoftware
 
 ### Informacion sobre el negocio
- 
+![](https://raw.githubusercontent.com/fernando479/IngSoftware/main/jose.jpeg)
+
 #### Detalles de la organizacion
 
 -Actualmente trabajan los dueños, dos personas con acceso total a los sistemas de inventario y boletas y caja.
