@@ -26,9 +26,10 @@ Se tiene un punto de venta que funciona pero se encuentra obsoleto. Este punto d
 
 ### ¿Cómo se hace una venta?
 
-1- El cliente pide sus productos y/o los lleva al mesón
-2- se van sumando los precios en una calculadora
-3-	si no se sabe el precio, se busca en el sistema
+ - El cliente pide sus productos y/o los lleva al mesón
+ 
+ - Se van sumando los precios en una calculadora
+	- Si no se sabe el precio, se busca en el sistema
 
 - En el punto de venta, en una ventana de chrome con la página del sii, se genera la boleta con el monto total y se imprime o se envia por whatsapp
 
@@ -54,6 +55,8 @@ Tener una caja fija donde lleguen los tickets generados por vendedores con pisto
 
 
 ### Propuesta de mejora
+
+![](https://github.com/fernando479/IngSoftware/blob/main/jose.jpeg?raw=true)
 
 propuesta inicial: leer versión pdf de la factura que se puede encontrar en su cuenta en el SII, de modo que el procedimiento pase a ser:
 
